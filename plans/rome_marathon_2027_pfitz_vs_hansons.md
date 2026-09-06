@@ -61,6 +61,8 @@ Using your Max HR (187 bpm) and Resting HR (42 bpm) via the Karvonen Formula ($\
 | **W07** | Oct 12 - Oct 18 | Rest | 11 km @ 5:30 + 6 Str | 16 km @ 5:25 MLR | Rest | 8 km @ 5:55 Rec | **21 km @ 5:25 Long** | 9.5 km @ 5:30 GA | 66 km (41 mi) |
 | **W08** | Oct 19 - Oct 25 | Rest | 13 km @ 5:30 + 6 Str | 16 km @ 5:20 MLR | Rest | 8 km @ 5:55 Rec | **22.5 km @ 5:20 Long** | 11 km @ 5:30 GA | 71 km (44 mi) |
 | **W09** | Oct 26 - Nov 01 | Rest | 13 km (w/ **5 km @ 4:30 LT**)| 17.5 km @ 5:20 MLR | Rest | 8 km @ 5:55 Rec | **22.5 km @ 5:20 Long** | 9.5 km @ 5:30 GA | 71 km (44 mi) |
+| **W10** | Nov 02 - Nov 08 | Rest | 9.5 km @ 5:35 GA | 13 km @ 5:30 MLR | Rest | 6.5 km @ 5:55 Rec | **5k Calibration Time Trial** | **16 km @ 5:30 Long** | 56 km *(Test)* |
+
 *Note on Week 02 Real-Life Adaptation*:
 - **Mon (Sep 07)**: Commute Double (8.0 km AM @ 5:30 / ~140 bpm + 8.0 km PM @ 5:30 / ~140 bpm = 16.0 km total MLR stimulus)
 - **Tue (Sep 08)**: 8.0 km General Aerobic @ 5:35/km (WFH)
