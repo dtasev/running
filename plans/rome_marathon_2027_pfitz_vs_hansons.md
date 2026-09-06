@@ -2,8 +2,8 @@
 
 **Athlete Physiological Calibration**:
 - **Resting Heart Rate**: 42 bpm
-- **Maximum Heart Rate**: 187 bpm
-- **Heart Rate Reserve (HRR)**: 145 bpm
+- **Maximum Heart Rate**: 190 bpm *(Updated: Peak 190 bpm observed Sep 05, 2026)*
+- **Heart Rate Reserve (HRR)**: 148 bpm
 - **Current Threshold Pace**: 4:20 – 4:30 min/km @ ~170 bpm
 - **Target Marathon Finish Time**: **3:29:34**
 - **Target Marathon Race Pace (MP)**: **4:58 min/km** (8:00 min/mile)
@@ -61,7 +61,14 @@ Using your Max HR (187 bpm) and Resting HR (42 bpm) via the Karvonen Formula ($\
 | **W07** | Oct 12 - Oct 18 | Rest | 11 km @ 5:30 + 6 Str | 16 km @ 5:25 MLR | Rest | 8 km @ 5:55 Rec | **21 km @ 5:25 Long** | 9.5 km @ 5:30 GA | 66 km (41 mi) |
 | **W08** | Oct 19 - Oct 25 | Rest | 13 km @ 5:30 + 6 Str | 16 km @ 5:20 MLR | Rest | 8 km @ 5:55 Rec | **22.5 km @ 5:20 Long** | 11 km @ 5:30 GA | 71 km (44 mi) |
 | **W09** | Oct 26 - Nov 01 | Rest | 13 km (w/ **5 km @ 4:30 LT**)| 17.5 km @ 5:20 MLR | Rest | 8 km @ 5:55 Rec | **22.5 km @ 5:20 Long** | 9.5 km @ 5:30 GA | 71 km (44 mi) |
-| **W10** | Nov 02 - Nov 08 | Rest | 9.5 km @ 5:35 GA | 13 km @ 5:30 MLR | Rest | 6.5 km @ 5:55 Rec | **5k Calibration Time Trial** | **16 km @ 5:30 Long** | 56 km *(Test)* |
+*Note on Week 02 Real-Life Adaptation*:
+- **Mon (Sep 07)**: Commute Double (8.0 km AM @ 5:30 / ~140 bpm + 8.0 km PM @ 5:30 / ~140 bpm = 16.0 km total MLR stimulus)
+- **Tue (Sep 08)**: 8.0 km General Aerobic @ 5:35/km (WFH)
+- **Wed (Sep 09)**: 5.0–6.5 km Recovery Run @ 5:50–6:00/km (or Rest)
+- **Thu (Sep 10)**: Climbing Cross-Training (Zero-impact active recovery & core)
+- **Fri (Sep 11)**: Rest or short 5.0 km shakeout (< 140 bpm)
+- **Sat (Sep 12)**: Key Long Run (14.5 km Pfitz / 13.0 km Hansons @ 5:30/km)
+- **Sun (Sep 13)**: Travel Day — optional 6–8 km run or full rest (weekly volume already hits ~45 km)
 
 *Note on Week 10: Run the 5k Time Trial on Saturday (with warm-up/cool-down, ~10 km total) and the 16 km long run on Sunday to test racing performance on fresh legs.*
 
